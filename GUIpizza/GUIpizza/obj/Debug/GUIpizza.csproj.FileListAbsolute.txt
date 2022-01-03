@@ -1,0 +1,9 @@
+C:\Users\Ridgewater.LAPTOP-HV30TMS5\Documents\MEGAsync\C#_Programming_CST_1620\Day12\GUIpizza\GUIpizza\bin\Debug\GUIpizza.exe
+C:\Users\Ridgewater.LAPTOP-HV30TMS5\Documents\MEGAsync\C#_Programming_CST_1620\Day12\GUIpizza\GUIpizza\bin\Debug\GUIpizza.pdb
+C:\Users\Ridgewater.LAPTOP-HV30TMS5\Documents\MEGAsync\C#_Programming_CST_1620\Day12\GUIpizza\GUIpizza\obj\Debug\GUIpizza.csprojAssemblyReference.cache
+C:\Users\Ridgewater.LAPTOP-HV30TMS5\Documents\MEGAsync\C#_Programming_CST_1620\Day12\GUIpizza\GUIpizza\obj\Debug\GUIpizza.FrmMain.resources
+C:\Users\Ridgewater.LAPTOP-HV30TMS5\Documents\MEGAsync\C#_Programming_CST_1620\Day12\GUIpizza\GUIpizza\obj\Debug\GUIpizza.Properties.Resources.resources
+C:\Users\Ridgewater.LAPTOP-HV30TMS5\Documents\MEGAsync\C#_Programming_CST_1620\Day12\GUIpizza\GUIpizza\obj\Debug\GUIpizza.csproj.GenerateResource.cache
+C:\Users\Ridgewater.LAPTOP-HV30TMS5\Documents\MEGAsync\C#_Programming_CST_1620\Day12\GUIpizza\GUIpizza\obj\Debug\GUIpizza.exe
+C:\Users\Ridgewater.LAPTOP-HV30TMS5\Documents\MEGAsync\C#_Programming_CST_1620\Day12\GUIpizza\GUIpizza\obj\Debug\GUIpizza.pdb
+C:\Users\Ridgewater.LAPTOP-HV30TMS5\Documents\MEGAsync\C#_Programming_CST_1620\Day12\GUIpizza\GUIpizza\obj\Debug\GUIpizza.FormHelp.resources

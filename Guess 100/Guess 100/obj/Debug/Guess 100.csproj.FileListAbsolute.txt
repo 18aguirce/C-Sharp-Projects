@@ -1,0 +1,27 @@
+C:\Users\Ridgewater.LAPTOP-HV30TMS5\Documents\MEGAsync\C# Programming CST 1620\Day 03 RockPaperScissors,\Guess 100\Guess 100\bin\Debug\Guess 100.exe
+C:\Users\Ridgewater.LAPTOP-HV30TMS5\Documents\MEGAsync\C# Programming CST 1620\Day 03 RockPaperScissors,\Guess 100\Guess 100\bin\Debug\Guess 100.pdb
+C:\Users\Ridgewater.LAPTOP-HV30TMS5\Documents\MEGAsync\C# Programming CST 1620\Day 03 RockPaperScissors,\Guess 100\Guess 100\obj\Debug\Guess 100.csprojAssemblyReference.cache
+C:\Users\Ridgewater.LAPTOP-HV30TMS5\Documents\MEGAsync\C# Programming CST 1620\Day 03 RockPaperScissors,\Guess 100\Guess 100\obj\Debug\Guess_100.frmMain.resources
+C:\Users\Ridgewater.LAPTOP-HV30TMS5\Documents\MEGAsync\C# Programming CST 1620\Day 03 RockPaperScissors,\Guess 100\Guess 100\obj\Debug\Guess_100.Properties.Resources.resources
+C:\Users\Ridgewater.LAPTOP-HV30TMS5\Documents\MEGAsync\C# Programming CST 1620\Day 03 RockPaperScissors,\Guess 100\Guess 100\obj\Debug\Guess 100.csproj.GenerateResource.cache
+C:\Users\Ridgewater.LAPTOP-HV30TMS5\Documents\MEGAsync\C# Programming CST 1620\Day 03 RockPaperScissors,\Guess 100\Guess 100\obj\Debug\Guess 100.csproj.CoreCompileInputs.cache
+C:\Users\Ridgewater.LAPTOP-HV30TMS5\Documents\MEGAsync\C# Programming CST 1620\Day 03 RockPaperScissors,\Guess 100\Guess 100\obj\Debug\Guess 100.exe
+C:\Users\Ridgewater.LAPTOP-HV30TMS5\Documents\MEGAsync\C# Programming CST 1620\Day 03 RockPaperScissors,\Guess 100\Guess 100\obj\Debug\Guess 100.pdb
+C:\Users\Ridgewater.LAPTOP-HV30TMS5\Documents\MEGAsync\C# Programming CST 1620\Day03_RockPaperScissors_Guess100\Guess 100\Guess 100\bin\Debug\Guess 100.exe
+C:\Users\Ridgewater.LAPTOP-HV30TMS5\Documents\MEGAsync\C# Programming CST 1620\Day03_RockPaperScissors_Guess100\Guess 100\Guess 100\bin\Debug\Guess 100.pdb
+C:\Users\Ridgewater.LAPTOP-HV30TMS5\Documents\MEGAsync\C# Programming CST 1620\Day03_RockPaperScissors_Guess100\Guess 100\Guess 100\obj\Debug\Guess 100.csprojAssemblyReference.cache
+C:\Users\Ridgewater.LAPTOP-HV30TMS5\Documents\MEGAsync\C# Programming CST 1620\Day03_RockPaperScissors_Guess100\Guess 100\Guess 100\obj\Debug\Guess_100.frmMain.resources
+C:\Users\Ridgewater.LAPTOP-HV30TMS5\Documents\MEGAsync\C# Programming CST 1620\Day03_RockPaperScissors_Guess100\Guess 100\Guess 100\obj\Debug\Guess_100.Properties.Resources.resources
+C:\Users\Ridgewater.LAPTOP-HV30TMS5\Documents\MEGAsync\C# Programming CST 1620\Day03_RockPaperScissors_Guess100\Guess 100\Guess 100\obj\Debug\Guess 100.csproj.GenerateResource.cache
+C:\Users\Ridgewater.LAPTOP-HV30TMS5\Documents\MEGAsync\C# Programming CST 1620\Day03_RockPaperScissors_Guess100\Guess 100\Guess 100\obj\Debug\Guess 100.csproj.CoreCompileInputs.cache
+C:\Users\Ridgewater.LAPTOP-HV30TMS5\Documents\MEGAsync\C# Programming CST 1620\Day03_RockPaperScissors_Guess100\Guess 100\Guess 100\obj\Debug\Guess 100.exe
+C:\Users\Ridgewater.LAPTOP-HV30TMS5\Documents\MEGAsync\C# Programming CST 1620\Day03_RockPaperScissors_Guess100\Guess 100\Guess 100\obj\Debug\Guess 100.pdb
+C:\Users\cesar\Documents\MEGAsync Downloads\C#_Programming_CST_1620 (Fall 2019)\Day04_RockPaperScissors_Guess100\Guess 100\Guess 100\bin\Debug\Guess 100.exe
+C:\Users\cesar\Documents\MEGAsync Downloads\C#_Programming_CST_1620 (Fall 2019)\Day04_RockPaperScissors_Guess100\Guess 100\Guess 100\bin\Debug\Guess 100.pdb
+C:\Users\cesar\Documents\MEGAsync Downloads\C#_Programming_CST_1620 (Fall 2019)\Day04_RockPaperScissors_Guess100\Guess 100\Guess 100\obj\Debug\Guess 100.csproj.AssemblyReference.cache
+C:\Users\cesar\Documents\MEGAsync Downloads\C#_Programming_CST_1620 (Fall 2019)\Day04_RockPaperScissors_Guess100\Guess 100\Guess 100\obj\Debug\Guess_100.frmMain.resources
+C:\Users\cesar\Documents\MEGAsync Downloads\C#_Programming_CST_1620 (Fall 2019)\Day04_RockPaperScissors_Guess100\Guess 100\Guess 100\obj\Debug\Guess_100.Properties.Resources.resources
+C:\Users\cesar\Documents\MEGAsync Downloads\C#_Programming_CST_1620 (Fall 2019)\Day04_RockPaperScissors_Guess100\Guess 100\Guess 100\obj\Debug\Guess 100.csproj.GenerateResource.cache
+C:\Users\cesar\Documents\MEGAsync Downloads\C#_Programming_CST_1620 (Fall 2019)\Day04_RockPaperScissors_Guess100\Guess 100\Guess 100\obj\Debug\Guess 100.csproj.CoreCompileInputs.cache
+C:\Users\cesar\Documents\MEGAsync Downloads\C#_Programming_CST_1620 (Fall 2019)\Day04_RockPaperScissors_Guess100\Guess 100\Guess 100\obj\Debug\Guess 100.exe
+C:\Users\cesar\Documents\MEGAsync Downloads\C#_Programming_CST_1620 (Fall 2019)\Day04_RockPaperScissors_Guess100\Guess 100\Guess 100\obj\Debug\Guess 100.pdb

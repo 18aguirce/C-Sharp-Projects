@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "46136ed6-c95f-430d-87f9-23af790718e4": {
+      "ProjectGuid": "46136ed6-c95f-430d-87f9-23af790718e4",
+      "DisplayName": "GuessAWord",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
